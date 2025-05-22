@@ -1,7 +1,6 @@
 # mfrancis.github.io
 # Mary Jasmine Francis
-
-Data Analyst | Machine Learning Enthusiast | Strategic Storyteller
+## Data Analyst | Machine Learning Enthusiast | Strategic Storyteller
 
 Welcome to my portfolio! I’m a Business Insights & Analytics postgraduate from Humber College (Dean’s Honour List) with a passion for transforming raw data into actionable strategies.
 
